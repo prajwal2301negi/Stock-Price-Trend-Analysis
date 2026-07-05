@@ -62,7 +62,7 @@ stock-trend-analysis/
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/stock-trend-analysis.git
+git clone https://github.com/prajwal2301negi/Stock-Price-Trend-Analysis.git
 cd stock-trend-analysis
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
